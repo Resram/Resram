@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Resram
-- 👀 I’m interested in Bioinformatics and datanalysis
+- 👀 I’m interested in Bioinformatics and data analysis
 - 🌱 I’m currently learning AI in healthcare
 - 💞️ I’m looking to collaborate on dataanalytics on biological data
 - 📫 How to reach me : Follow and collaborate on open projects
